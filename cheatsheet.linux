@@ -1,0 +1,8 @@
+cd [folder name]
+cd ..
+mkdir [new folder name]
+touch [new filename]
+ls
+rm
+pwd
+clear
